@@ -1,0 +1,1 @@
+addSbtPlugin("ai.x" % "some-sbt-plugin" % "0.1-SNAPSHOT")
